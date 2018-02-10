@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.harsh.esynote.widgets.NotelySlidingLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/filterLayout"
+    android:orientation="horizontal"
+    android:layout_height="match_parent"
+    app:allowDragging="false"
+    app:slidePadding="200dp"
+    app:contentToggle="true"
+    app:contentAlpha="1"
+    app:slideMode="right">
+    <include layout="@layout/filter_layout"/>
+    <include layout="@layout/notes_layout"/>
+</com.example.harsh.esynote.widgets.NotelySlidingLayout>

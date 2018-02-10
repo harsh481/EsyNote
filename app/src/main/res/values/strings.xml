@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EsyNote</string>
+    <string name="note_id">NOTE_ID</string>
+    <string name="large_text">
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+    </string>
+    <string name="action_edit">EDIT</string>
+    <string name="action_save">SAVE</string>
+    <string name="action_undo">UNDO</string>
+    <string name="error_empty">Fields can\'t be empty!</string>
+    <string name="no_notes">You have no Notes!</string>
+    <string name="sample_title">And then there where none</string>
+    <string name="filter_hearted">Hearted</string>
+    <string name="filter_favourite">Favourite</string>
+    <string name="filter">FILTER</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="sample_date">Today at 6.30 pm</string>
+    <string name="apply">APPLY</string>
+    <string name="delete">Delete</string>
+    <string name="last_update">Last Updated:</string>
+    <string name="discard">Discard changes?</string>
+</resources>
